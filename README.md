@@ -1,2 +1,2 @@
-# Network-Algorithm
-This is a network routing algorithm that I created to simulate running packets with several limiting factors
+# CSE331PROJECT
+This project is for our CSE331 algorithms class
